@@ -11,4 +11,4 @@ Link: https://huggingface.co/spaces/dalle-mini/dalle-mini
 Link:  https://replicate.com/pixray/text2image
 4) Hugging Face (BigScience/Bloom)
 Link: https://huggingface.co/bigscience/bloom
-![Screenshot](ss1.png)
+![alt text](https://github.com/nevilshah444/CMPE-290/blob/main/Assignment%201/Part%20B/images/ss1.png)
