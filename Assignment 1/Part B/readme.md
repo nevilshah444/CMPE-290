@@ -11,7 +11,7 @@ Link: https://huggingface.co/spaces/dalle-mini/dalle-mini
 
 -> Pixray
 Link:  https://replicate.com/pixray/text2image
-Keyword:
+Keyword: Scary ghost frighten in a forest
 ![alt text](https://github.com/nevilshah444/CMPE-290/blob/main/Assignment%201/Part%20B/images/Screenshot%20(5).png)
 
 -> Hugging Face (BigScience/Bloom)
