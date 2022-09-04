@@ -5,10 +5,14 @@ Link to the PowerPoint Presentation for part B of Assignment 1: https://docs.goo
 
 -> Creater-NightCafe Studio:
 Link: https://creator.nightcafe.studio/my-creations
+
 -> Dall-e-mini:
 Link: https://huggingface.co/spaces/dalle-mini/dalle-mini
+
 -> Pixray
 Link:  https://replicate.com/pixray/text2image
+
 -> Hugging Face (BigScience/Bloom)
 Link: https://huggingface.co/bigscience/bloom
+Keyword: A pink balloon flying in the sky
 ![alt text](https://github.com/nevilshah444/CMPE-290/blob/main/Assignment%201/Part%20B/images/ss1.png)
