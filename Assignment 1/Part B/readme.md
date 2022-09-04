@@ -5,9 +5,11 @@ Link to the PowerPoint Presentation for part B of Assignment 1: https://docs.goo
 
 -> Creater-NightCafe Studio:
 Link: https://creator.nightcafe.studio/my-creations
+![alt text](https://github.com/nevilshah444/CMPE-290/blob/main/Assignment%201/Part%20B/images/Screenshot%20(1).png)
 
 -> Dall-e-mini:
 Link: https://huggingface.co/spaces/dalle-mini/dalle-mini
+![alt text]
 
 -> Pixray
 Link:  https://replicate.com/pixray/text2image
