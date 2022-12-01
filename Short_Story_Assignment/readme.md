@@ -4,4 +4,4 @@ Link to the powerpoint presentation: https://docs.google.com/presentation/d/1u8y
 
 Link to the medium article: [https://medium.com/@nevilshah444/multi-task-learning-a-comprehensive-study-66791227ca5a](https://medium.com/@nevilshah444/multi-task-learning-a-comprehensive-study-66791227ca5a?source=friends_link&sk=eac65b20b77401804c2ca68b0c628588)
 
-Link to the video presentation: https://youtu.be/sT3SmjvPTpM
+Link to the video presentation: https://youtu.be/sT3SmjvPTpM 
